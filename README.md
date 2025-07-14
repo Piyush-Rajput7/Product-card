@@ -6,11 +6,11 @@ This is a solution to the [Product Preview Card Component challenge on Frontend 
 
 ### Screenshot
 
-![Screenshot of the solution](./screenshot.png)
+![Screenshot of the solution](./Screenshot 2025-07-14 173808.png)
 
 ### Links
 
-- Live Site URL: [Add your live URL here](https://your-live-site-link.com)
+- Live Site URL: [Add your live URL here](https://product-card-perfumess.netlify.app/)
 
 ## 🔨 Built with
 
@@ -33,9 +33,9 @@ I practiced:
 
 Here’s a side-by-side comparison:
 - ✅ My Version:
-  ![My version](./my-version.png)
+  ![My version](./Screenshot 2025-07-14 173808.png)
 - 🎯 Target Design:
-  ![Target](./desktop-design.jpg)
+  ![Target](./desktop-preview.jpg)
 
 ## 🧠 Continued development
 
@@ -49,4 +49,4 @@ Thanks to [Frontend Mentor](https://www.frontendmentor.io) for this great beginn
 
 ---
 
-**Author**: [Your Name Here]
+**Author**: [Piyush rajput]
