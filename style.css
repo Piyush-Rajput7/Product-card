@@ -146,13 +146,13 @@ cursor: pointer;
     .info {
       width: 50%;
       padding: 2rem;
-      gap:0.7rem;
+      gap:1rem;
    
     }
  
     .description{
         font-size: 0.8rem;
-        line-height: 1.2rem;
+        line-height: 1.5rem;
         width: 15rem;
     }
     .price{
