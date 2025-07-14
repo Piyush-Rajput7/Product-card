@@ -63,7 +63,7 @@ img{
 }
 .product{
     text-transform: uppercase;
-    letter-spacing: 5px;
+    letter-spacing: 0.3rem
     font-weight: 200;
     font-size: 0.75rem;
     align-self: flex-start;
@@ -111,7 +111,7 @@ font-weight: 400;
     font-family: 'Montserrat', sans-serif;
 cursor: pointer;
     background-color:hsl(158, 36%, 37%);
-    transition: background-color 0.3s ease;
+ 
 }
 .button:hover{
     
@@ -159,4 +159,11 @@ cursor: pointer;
         gap:2rem;
     }
   }
+
+@media (preferse-reduce-motion:no-preferance){
+    .button{
+           transition: background-color 0.3s ease;
+        
+    }
+}
   
