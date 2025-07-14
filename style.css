@@ -160,7 +160,7 @@ cursor: pointer;
     }
   }
 
-@media (preferse-reduce-motion:no-preferance){
+@media (prefers-reduce-motion:no-preferance){
     .button{
            transition: background-color 0.3s ease;
         
