@@ -63,7 +63,7 @@ img{
 }
 .product{
     text-transform: uppercase;
-    letter-spacing: 0.3rem
+    letter-spacing: 0.3rem;
     font-weight: 200;
     font-size: 0.75rem;
     align-self: flex-start;
