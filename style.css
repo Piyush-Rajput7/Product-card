@@ -129,7 +129,7 @@ cursor: pointer;
     .card {
       flex-direction: row;
       height: 28rem;
-      width: 48rem;
+      width: 40rem;
       max-width: unset;
     }
   
